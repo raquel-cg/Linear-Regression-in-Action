@@ -20,21 +20,11 @@ linear-regression-ames/
 ## Visuals: 
 <img width="450" alt="Screenshot 2025-08-25 204121" src="https://github.com/user-attachments/assets/08e244a8-2abb-4af0-b1e9-1788717fb782" />
 
-*Figure 1: *
+*Figure 1:*
 
 <img width="450" alt="Screenshot 2025-08-25 204648" src="https://github.com/user-attachments/assets/066acb71-dfca-41c7-81d3-3a8e37428e8d" />
 
-*Figure 2: *
-
----
-<img src="https://github.com/user-attachments/assets/2d898f30-dc93-4518-88cd-5414e5b85e5e" width="600" alt="Feature Correlation" />
-
-*Figure 1: Correlation heatmap showing relationships between key passenger features.*
-
-<img width="700" height="387" alt="Titanic Dashboard Main Summary Page" src="https://github.com/user-attachments/assets/ec35af4a-2c88-489d-a0fd-88f09c324c00" />
-
-*Figure 2: Power BI dashboard overview showing survival distributions by class, gender, and model performance.*
----
+*Figure 2:*
 
 ## Features: 
 - Data cleaning and preparation of housing dataset
