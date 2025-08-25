@@ -18,20 +18,16 @@ linear-regression-ames/
 │── requirements.txt              # Python dependencies
 
 ## Visuals: 
-<img width="450" alt="Screenshot 2025-08-25 204121" src="https://github.com/user-attachments/assets/08e244a8-2abb-4af0-b1e9-1788717fb782" />
-
+<img width="400" alt="Screenshot 2025-08-25 204121" src="https://github.com/user-attachments/assets/08e244a8-2abb-4af0-b1e9-1788717fb782" />
 *Figure 1:*
 
-<img width="450" alt="Screenshot 2025-08-25 204648" src="https://github.com/user-attachments/assets/066acb71-dfca-41c7-81d3-3a8e37428e8d" />
-
+<img width="400" alt="Screenshot 2025-08-25 204648" src="https://github.com/user-attachments/assets/066acb71-dfca-41c7-81d3-3a8e37428e8d" />
 *Figure 2:*
 
-<img width="940" height="702" alt="Screenshot 2025-08-25 205442" src="https://github.com/user-attachments/assets/cd6c04c2-dd32-4282-80db-bb11207cd656" />
-
+<img width="400" alt="Screenshot 2025-08-25 205442" src="https://github.com/user-attachments/assets/cd6c04c2-dd32-4282-80db-bb11207cd656" />
 *Figure 3:*
 
-<img width="1077" height="818" alt="Screenshot 2025-08-25 205508" src="https://github.com/user-attachments/assets/a7d5596e-12df-413b-b9d8-3d5a0166b9f3" />
-
+<img width="400" alt="Screenshot 2025-08-25 205508" src="https://github.com/user-attachments/assets/a7d5596e-12df-413b-b9d8-3d5a0166b9f3" />
 *Figure 4:*
 
 ## Features: 
