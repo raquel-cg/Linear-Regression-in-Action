@@ -17,6 +17,14 @@ linear-regression-ames/
 │── README.md                     # Project overview
 │── requirements.txt              # Python dependencies
 
+## Features: 
+- Data cleaning and preparation of housing dataset
+- Exploratory Data Analysis (EDA) with visualizations
+- Multiple linear regression model for predicting house prices
+- Train-test split with model evaluation using RMSE
+- Coefficient interpretation to assess variable importance
+- Residual error plots to visualize prediction performance
+
 ## Visuals: 
 <img width="850" height="507" alt="Screenshot 2025-08-25 210839" src="https://github.com/user-attachments/assets/fe36cade-5917-4cfe-a231-1c230f1c2adb" />
 
@@ -37,13 +45,6 @@ linear-regression-ames/
 
 *Figure 4:*
 
-## Features: 
-- Data cleaning and preparation of housing dataset
-- Exploratory Data Analysis (EDA) with visualizations
-- Multiple linear regression model for predicting house prices
-- Train-test split with model evaluation using RMSE
-- Coefficient interpretation to assess variable importance
-- Residual error plots to visualize prediction performance
 
 ## Key Insights:
 - Living area size (Gr_Liv_Area) showed the strongest positive impact on sale prices.
