@@ -26,6 +26,14 @@ linear-regression-ames/
 
 *Figure 2:*
 
+<img width="940" height="702" alt="Screenshot 2025-08-25 205442" src="https://github.com/user-attachments/assets/cd6c04c2-dd32-4282-80db-bb11207cd656" />
+
+*Figure 3:*
+
+<img width="1077" height="818" alt="Screenshot 2025-08-25 205508" src="https://github.com/user-attachments/assets/a7d5596e-12df-413b-b9d8-3d5a0166b9f3" />
+
+*Figure 4:*
+
 ## Features: 
 - Data cleaning and preparation of housing dataset
 - Exploratory Data Analysis (EDA) with visualizations
