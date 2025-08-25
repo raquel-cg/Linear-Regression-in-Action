@@ -18,7 +18,7 @@ linear-regression-ames/
 │── requirements.txt              # Python dependencies
 
 ## Visuals: 
-<img width="450" alt="Screenshot 2025-08-25 204121" src="https://github.com/user-attachments/assets/08e244a8-2abb-4af0-b1e9-1788717fb782" />
+<img width="450" height="507" alt="Screenshot 2025-08-25 210839" src="https://github.com/user-attachments/assets/fe36cade-5917-4cfe-a231-1c230f1c2adb" />
 
 *Figure 1:*
 
