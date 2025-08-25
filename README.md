@@ -16,6 +16,8 @@ linear-regression-ames/
 │   └── Linear_Regression_Ames.ipynb   # Main analysis notebook
 │── README.md                     # Project overview
 │── requirements.txt              # Python dependencies
+## Visuals: 
+
 
 ## Features: 
 - Data cleaning and preparation of housing dataset
