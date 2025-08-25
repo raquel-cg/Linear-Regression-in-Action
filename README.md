@@ -1,4 +1,4 @@
-# Linear-Regression-in-Action
+# Linear Regression in Action
 ## Overview:
 This project implements a predictive model for residential property prices using the Ames Housing dataset. It focuses on cleaning and preparing the dataset, analyzing key variables such as living area size and garage size, and training a multiple linear regression model. Model accuracy is assessed through train-test splits, error metrics, and residual analysis, providing insights into the main factors driving property values and supporting data-driven decisions in the real estate market.
 
